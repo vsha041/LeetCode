@@ -29,6 +29,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Compile Include="arrayPartitionI.js" />
+    <Compile Include="hammingDistance.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>

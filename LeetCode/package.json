@@ -1,0 +1,9 @@
+{
+  "name": "leet-code",
+  "version": "0.0.0",
+  "description": "LeetCode",
+  "main": "app.js",
+  "author": {
+    "name": "Varun"
+  }
+}

@@ -31,6 +31,9 @@
     <Compile Include="app.js" />
     <Compile Include="arrayPartitionI.js" />
     <Compile Include="hammingDistance.js" />
+    <Compile Include="Number Complement.js">
+      <SubType>Code</SubType>
+    </Compile>
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>

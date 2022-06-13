@@ -1,3 +1,11 @@
+/*
+to find the answer for a given index, you can either 
+-use the previous digit directly by taking the previous answer and for each one separating by comma
+-combine the previous digit with the second previous digit and see if that fits the answer and if it does you just take the previous to previous answer and add 1 to it
+
+but note that for the above 2 cases, you will need to handle 0 separately for each one.
+
+*/
 #include <vector>
 #include <iostream>
 #include <algorithm>
